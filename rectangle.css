@@ -1,7 +1,7 @@
 div{
-  width: 370px;
-  margin: 50px auto;
   font-size: 1.1em;
+  width: 370px;
+  margin: 50px auto
 }
 
 #calculate{
@@ -10,8 +10,8 @@ div{
 }
 
 input,label{
-  margin: 5px 0;
-  padding-left:5px;
   font-size: 1em;
+  margin: 5px 0;
+  padding-left:5px
 }
 
